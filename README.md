@@ -24,11 +24,11 @@ This project showcases advanced data visualization, dynamic filtering, and actio
 - Interactive slicers for dynamic filtering
 
 ---
-
 ##  Report Snapshots
 
 | Report Page | Preview |
 |-------------|---------|
+| Overview | ![Overview](Overview.jpeg) |
 | Summary Report | ![Summary Report](Summary%20Report.jpeg) |
 | Sales Details Report | ![Sales Details Report](Sales%20Details%20Report.jpeg) |
 | Profit Details Report | ![Profit Details Report](Profit%20Details%20Report.jpeg) |
