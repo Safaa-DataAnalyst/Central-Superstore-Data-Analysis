@@ -9,10 +9,10 @@ This project showcases advanced data visualization, dynamic filtering, and actio
 
 | Report Page | Description |
 |-------------|-------------|
+|  **Overview** | High-level KPIs and visual summary of overall performance |
 |  **Summary Report** | Overview of key metrics, top customers, and performance by segment and year |
 |  **Sales Details Report** | Detailed breakdown of sales by category, region, and time period |
 |  **Profit Details Report** | In-depth analysis of profit margins across products, cities, and shipping modes |
-
 ---
 
 ##  Summary Report Highlights
